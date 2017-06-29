@@ -1,28 +1,33 @@
 ## Todos
-- [ ] timeline: July 20th, August 10th
-- [ ] long-term goal: Montezuma level 1 
-- [ ] short-term goal (next week)
-- [ ] Q & A
-
-## Goals
-- number of rooms explored: [19 rooms](https://www.youtube.com/watch?v=jMDhb-Toii8)
-- score: [3000]()
-
-### checkpoints/goals
-- By July 6th:
-	* play Montezuma's Revenge yourself
-	* train any algorithm on Montezuma's Revenge (your choice )
-	* paper review: https://web.stanford.edu/class/cs224n/reports/2762090.pdf
-- By July 13th:
-	* paper review:
-
+- [ ] July 5th Wed, 6:10-7:10pm:
+	* [ ] [play Montezuma's Revenge yourself](http://www.free80sarcade.com/2600_Montezumas_Revenge.php) 
+	* [ ] train any algorithm of your choice on Montezuma's Revenge and share results (testing environment shared here)
+	* [ ] (optional) read [NLP-based solution to MZ](https://arxiv.org/pdf/1704.05539v1.pdf)
+	* [ ] (optional) read [why MZ is hard](https://arxiv.org/pdf/1604.00289.pdf)
+- [ ] By July 15th Sat, 2-4pm:
+	* [ ] Hoyeop Kim: [Count-Based Exploration 2017](http://arxiv.org/abs/1703.01310v2)
+	* [ ] Sangjin Park: [Hierarchical RL](https://arxiv.org/abs/1604.06057v2)
+	* [ ] DH: [FeUdal Networks](https://arxiv.org/abs/1703.01161v1)
+	* [ ] HG: [UNREAL](https://arxiv.org/pdf/1611.05397.pdf)
 - By July 20th:
+	* [ ] (optional) [Feature Control as Intrinsic Motivation](https://arxiv.org/abs/1705.06769v1) 
+	* [ ] (optional) [Evolution Strategies](https://arxiv.org/pdf/1703.03864.pdf) 	
+	* [ ] (optional) [Count-Based Exploration 2016](https://arxiv.org/pdf/1606.01868v2.pdf)
+	* [ ] (optional) [Micro-Objective Learning](https://arxiv.org/pdf/1703.03864.pdf) 
+	* [ ] (optional) [Human Checkpoint Replay](https://arxiv.org/abs/1607.05077v1) 
 - By July 27th:
+
 - By Aug 3rd: 
 - By Aug 10th
-	* publish results (play videos, blogpost)
-	* compare to the performance of the same model on other Atari games
+	* [ ] publish results (play video, blogpost)
 
+## Goals
+- number of rooms/level explored:
+	* [ ] level 2+, 20+ rooms
+	* state-of-the-art: [19 rooms & 1 level](https://www.youtube.com/watch?v=jMDhb-Toii8)
+- score:
+	* [ ] 3500+
+	* state-of-the-art#1: [3500](https://gym.openai.com/envs/MontezumaRevenge-v0)
 
 ## Resources
 ### RL algorithms practice
@@ -32,16 +37,11 @@
 - https://www.slideshare.net/sotetsukoyamada/montezumas-revenge-nips2016
 - https://www.slideshare.net/ItsukaraIitsuka/drl-challenge-on-montezumas-revenge
 
-### papers
-#### improving exploration
+### [papers](http://www.arxiv-sanity.com/search?q=montezuma%27s+revenge)
 - Intrinsic Motivation: https://arxiv.org/pdf/1606.01868.pdf
-
-#### hierarchical RL
 - Hierarchical RL: https://arxiv.org/pdf/1611.05397.pdf
-- Reinforcement learning with unsupervised auxiliary tasks: https://arxiv.org/pdf/1611.05397.pdf
+- Reinforcement learning with unsupervised auxiliary tasks(unreal): https://arxiv.org/pdf/1611.05397.pdf
 - FeUdal Networks for Hierarchical Reinforcement Learning: https://arxiv.org/abs/1703.01161v1
-
-#### rest
 - attention
 - ES Evolution strategies: https://arxiv.org/pdf/1703.03864.pdf 
 - option critic...
