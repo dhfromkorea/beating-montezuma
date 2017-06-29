@@ -29,6 +29,8 @@
 	* [ ] 3500+
 	* state-of-the-art#1: [3500](https://gym.openai.com/envs/MontezumaRevenge-v0)
 
+## Models
+
 ## Resources
 ### RL algorithms practice
 - https://github.com/dennybritz/reinforcement-learning
@@ -53,4 +55,5 @@
 ### implementation
 - https://gist.github.com/Itsukara/5d9e3bc6163ee8202d33b7bc48ec6da1
 - https://github.com/EthanMacdonald/h-DQN
+- https://github.com/steveKapturowski/tensorflow-rl
 
